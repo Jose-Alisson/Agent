@@ -1,0 +1,5 @@
+package sunshineax.agent.enums;
+
+public enum SequenceExecutor {
+    PARALLEL, STREAM
+}
