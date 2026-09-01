@@ -1,0 +1,6 @@
+sunshineax.agent.registry.impl.TypeRequestRegistry
+sunshineax.agent.registry.impl.SessionRegistry
+sunshineax.agent.factory.ManagerFactory
+sunshineax.agent.factory.manager.impl.RegistryCapabilityManager
+sunshineax.agent.factory.manager.impl.RequestResolverManager
+
